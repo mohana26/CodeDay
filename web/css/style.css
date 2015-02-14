@@ -216,26 +216,45 @@ body {
 	position: absolute;
 	right: 0px;
 }
+
 /* header_btm */
+
 .header_btm{
+
 	background: #4CCFC1;
 }
+
 .header_sub{
 	padding: 0 2%;
 }
+
 /* start menu */
+
 .h_menu{
+
 	font-family: 'bebas_neueregular';
+
 	float:left;
 	color:#ffffff;
+
 	font-size: 1.2em;
+	margin-left: 25em;
+
+
 }
+
 .h_menu ul li{
+	
 	display: inline-block;
+	
 }
+
 .h_menu ul li:first-child a{
+
 	padding-left: 0px;
+
 }
+
 .h_menu ul li a{
 	display: block;
 	padding: 14px 18px;
